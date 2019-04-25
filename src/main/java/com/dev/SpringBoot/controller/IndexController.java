@@ -19,6 +19,7 @@ public class IndexController {
         result.put("d", 4);
         result.put("e", 5);
         result.put("f", 6);
+        result.put("g", 7);
         return result;
     }
 }
